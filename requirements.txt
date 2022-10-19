@@ -1,0 +1,8 @@
+jupyterlab
+lmfit
+matplotlib
+numpy
+pandas
+tellurium
+SBstoat
+scipy
