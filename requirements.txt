@@ -6,3 +6,4 @@ pandas
 tellurium
 SBstoat
 scipy
+seaborn
