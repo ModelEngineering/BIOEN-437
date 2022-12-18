@@ -11,3 +11,5 @@
 * Do a lesson on creating PyPI packages
 
 * Develop on-line background materials
+
+* Include a discussion of virtual environments
