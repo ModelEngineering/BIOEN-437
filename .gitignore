@@ -5,6 +5,8 @@ __pycache__/
 ~$*.pptx
 
 bio/*
+.DS_Store
+437/
 
 # C extensions
 *.so
