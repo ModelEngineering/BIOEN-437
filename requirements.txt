@@ -5,6 +5,7 @@ matplotlib
 numpy
 pandas
 tellurium
+scikit-learn
 SBstoat
 SBMLLint
 scipy
